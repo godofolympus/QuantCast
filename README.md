@@ -8,9 +8,11 @@ MostActiveCookie.java contains the program's logic to take in a CSV file along w
 The MostActiveCookieTest.java contains test cases ranging from empty files to single most common cookies to multiple common cookies as well as same cookie appearing on different dates.
 
 Setup: navigate to the folder containing .java file and place the CSV file
+
 To run the program, navigate the terminal window to the correct file path of the .java file
 
 enter javac MostActiveCookie.java to compile the program
+
 enter java MostActiveCookie filename.csv -d yyyy-mm-dd
 
 The program will print the list of cookies that appeared most frequently on that given day to the console.
