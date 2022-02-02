@@ -18,7 +18,9 @@ enter java MostActiveCookie filename.csv -d yyyy-mm-dd
 The program will print the list of cookies that appeared most frequently on that given day to the console.
 
 to run the test cases, just compile the program and run it with no extra inputs
+
 javac MostActiveCookieTest.java
+
 java MostActiveCookieTest
 
 This program will display that it passed all test cases or will print out which test case it failed and exit early. 
