@@ -1,5 +1,6 @@
 # Quantcast
 Coding Challenge
+
 The program will print the list of cookies that appeared most frequently on a given day.
 
 Setup: navigate to the folder containing .java file and place the CSV file
